@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.14.247.99:8081/repository/Ansible_project_release/</url>
+            <url>http://3.14.247.11:8081/repository/Ansible_project_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.14.247.99:8081/repository/Ansible_project_snapshots/</url>
+            <url>http://3.14.247.11:8081/repository/Ansible_project_snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
